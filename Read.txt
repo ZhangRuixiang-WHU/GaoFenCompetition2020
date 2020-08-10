@@ -1,0 +1,1 @@
+v1 -- mmdet中datasets的coco.py, evaultaion的class-name.py, 中coco的类别都是DDRomote的格式，配置文件中总类别25类
